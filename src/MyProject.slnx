@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MyProject.Price.Api.Contracts/MyProject.Price.Api.Contracts.csproj" />
+  <Project Path="MyProject.Price.Api.Domain/MyProject.Price.Api.Domain.csproj" />
+  <Project Path="MyProject.Price.Api/MyProject.Price.Api.csproj" />
+</Solution>
