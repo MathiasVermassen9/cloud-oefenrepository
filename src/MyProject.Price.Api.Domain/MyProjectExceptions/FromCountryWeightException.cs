@@ -1,0 +1,1 @@
+public class FromCountryWeightException(string message) : Exception(message);
